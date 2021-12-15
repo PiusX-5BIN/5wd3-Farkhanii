@@ -1,0 +1,12 @@
+.main-menu-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-menu-link:hover {
+    background-color: white;
+}
+
+.main-menu-list:target {
+    display: block;
+}
